@@ -777,6 +777,54 @@ header .header-top {
   width: 15%;
   padding: 10px; }
 
+
+
+  /* modal */
+ .btn-submit{
+  background: #46a8fd;
+  color: #fff;
+  font-weight: 600;
+  width: 100%;
+}
+.donate h4 {
+  color: #46a8fd;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.donate .form-control {
+  background-color: transparent;
+  margin-bottom: 10px;
+}
+.donate .form-control:focus {
+  border: 1px solid #ced4da !important;
+}
+
+
+#volunteer h4 {
+  color: #46a8fd;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+#volunteer .form-control {
+  background-color: transparent;
+  margin-bottom: 10px;
+}
+#volunteer .form-control:focus {
+  border: 1px solid #ced4da !important;
+}
+#volunteer label {
+  font-size: 14px;
+}
+#volunteer .close {
+  position: absolute;
+  right: 0;
+  top: -25px;
+  color: #fff;
+  opacity: 1;
+  border: none;
+}
+
 /* =================== Copyroght Starts Here =================== */
 .copy {
   padding: 20px;
